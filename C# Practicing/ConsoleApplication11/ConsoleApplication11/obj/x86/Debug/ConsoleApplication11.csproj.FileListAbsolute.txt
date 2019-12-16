@@ -1,0 +1,4 @@
+c:\users\chanuka dinuwan\documents\visual studio 2010\Projects\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+c:\users\chanuka dinuwan\documents\visual studio 2010\Projects\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+c:\users\chanuka dinuwan\documents\visual studio 2010\Projects\ConsoleApplication11\ConsoleApplication11\obj\x86\Debug\ConsoleApplication11.exe
+c:\users\chanuka dinuwan\documents\visual studio 2010\Projects\ConsoleApplication11\ConsoleApplication11\obj\x86\Debug\ConsoleApplication11.pdb
