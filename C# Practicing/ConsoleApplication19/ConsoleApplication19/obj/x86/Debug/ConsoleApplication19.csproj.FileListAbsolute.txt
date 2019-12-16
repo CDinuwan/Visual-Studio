@@ -1,0 +1,4 @@
+c:\users\chanuka dinuwan\documents\visual studio 2010\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.exe
+c:\users\chanuka dinuwan\documents\visual studio 2010\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.pdb
+c:\users\chanuka dinuwan\documents\visual studio 2010\Projects\ConsoleApplication19\ConsoleApplication19\obj\x86\Debug\ConsoleApplication19.exe
+c:\users\chanuka dinuwan\documents\visual studio 2010\Projects\ConsoleApplication19\ConsoleApplication19\obj\x86\Debug\ConsoleApplication19.pdb
