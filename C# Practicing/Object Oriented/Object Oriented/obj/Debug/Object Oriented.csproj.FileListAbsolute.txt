@@ -1,0 +1,7 @@
+C:\Users\hecdi\source\repos\Object Oriented\Object Oriented\bin\Debug\Object Oriented.exe.config
+C:\Users\hecdi\source\repos\Object Oriented\Object Oriented\bin\Debug\Object Oriented.exe
+C:\Users\hecdi\source\repos\Object Oriented\Object Oriented\bin\Debug\Object Oriented.pdb
+C:\Users\hecdi\source\repos\Object Oriented\Object Oriented\obj\Debug\Object Oriented.csprojAssemblyReference.cache
+C:\Users\hecdi\source\repos\Object Oriented\Object Oriented\obj\Debug\Object Oriented.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\source\repos\Object Oriented\Object Oriented\obj\Debug\Object Oriented.exe
+C:\Users\hecdi\source\repos\Object Oriented\Object Oriented\obj\Debug\Object Oriented.pdb

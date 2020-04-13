@@ -1,0 +1,7 @@
+C:\Users\hecdi\source\repos\OOPPrac1\OOPPrac1\bin\Debug\OOPPrac1.exe.config
+C:\Users\hecdi\source\repos\OOPPrac1\OOPPrac1\bin\Debug\OOPPrac1.exe
+C:\Users\hecdi\source\repos\OOPPrac1\OOPPrac1\bin\Debug\OOPPrac1.pdb
+C:\Users\hecdi\source\repos\OOPPrac1\OOPPrac1\obj\Debug\OOPPrac1.csprojAssemblyReference.cache
+C:\Users\hecdi\source\repos\OOPPrac1\OOPPrac1\obj\Debug\OOPPrac1.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\source\repos\OOPPrac1\OOPPrac1\obj\Debug\OOPPrac1.exe
+C:\Users\hecdi\source\repos\OOPPrac1\OOPPrac1\obj\Debug\OOPPrac1.pdb

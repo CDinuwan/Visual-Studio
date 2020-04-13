@@ -1,0 +1,7 @@
+C:\Users\hecdi\source\repos\CSharpOOPAllInOne\CSharpOOPAllInOne\obj\Debug\CSharpOOPAllInOne.csprojAssemblyReference.cache
+C:\Users\hecdi\source\repos\CSharpOOPAllInOne\CSharpOOPAllInOne\obj\Debug\CSharpOOPAllInOne.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\source\repos\CSharpOOPAllInOne\CSharpOOPAllInOne\bin\Debug\CSharpOOPAllInOne.exe.config
+C:\Users\hecdi\source\repos\CSharpOOPAllInOne\CSharpOOPAllInOne\bin\Debug\CSharpOOPAllInOne.exe
+C:\Users\hecdi\source\repos\CSharpOOPAllInOne\CSharpOOPAllInOne\bin\Debug\CSharpOOPAllInOne.pdb
+C:\Users\hecdi\source\repos\CSharpOOPAllInOne\CSharpOOPAllInOne\obj\Debug\CSharpOOPAllInOne.exe
+C:\Users\hecdi\source\repos\CSharpOOPAllInOne\CSharpOOPAllInOne\obj\Debug\CSharpOOPAllInOne.pdb
