@@ -1,0 +1,6 @@
+C:\Users\hecdi\source\repos\Practising4\Practising4\bin\Debug\Practising4.exe.config
+C:\Users\hecdi\source\repos\Practising4\Practising4\bin\Debug\Practising4.exe
+C:\Users\hecdi\source\repos\Practising4\Practising4\bin\Debug\Practising4.pdb
+C:\Users\hecdi\source\repos\Practising4\Practising4\obj\Debug\Practising4.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\source\repos\Practising4\Practising4\obj\Debug\Practising4.exe
+C:\Users\hecdi\source\repos\Practising4\Practising4\obj\Debug\Practising4.pdb
