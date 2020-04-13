@@ -1,0 +1,7 @@
+C:\Users\hecdi\source\repos\Practising12\Practising12\bin\Debug\Practising12.exe.config
+C:\Users\hecdi\source\repos\Practising12\Practising12\bin\Debug\Practising12.exe
+C:\Users\hecdi\source\repos\Practising12\Practising12\bin\Debug\Practising12.pdb
+C:\Users\hecdi\source\repos\Practising12\Practising12\obj\Debug\Practising12.csprojAssemblyReference.cache
+C:\Users\hecdi\source\repos\Practising12\Practising12\obj\Debug\Practising12.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\source\repos\Practising12\Practising12\obj\Debug\Practising12.exe
+C:\Users\hecdi\source\repos\Practising12\Practising12\obj\Debug\Practising12.pdb
