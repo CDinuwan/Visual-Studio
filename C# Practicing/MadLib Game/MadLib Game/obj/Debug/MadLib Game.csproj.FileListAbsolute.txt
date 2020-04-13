@@ -1,0 +1,7 @@
+C:\Users\hecdi\source\repos\MadLib Game\MadLib Game\bin\Debug\MadLib Game.exe.config
+C:\Users\hecdi\source\repos\MadLib Game\MadLib Game\bin\Debug\MadLib Game.exe
+C:\Users\hecdi\source\repos\MadLib Game\MadLib Game\bin\Debug\MadLib Game.pdb
+C:\Users\hecdi\source\repos\MadLib Game\MadLib Game\obj\Debug\MadLib Game.csprojAssemblyReference.cache
+C:\Users\hecdi\source\repos\MadLib Game\MadLib Game\obj\Debug\MadLib Game.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\source\repos\MadLib Game\MadLib Game\obj\Debug\MadLib Game.exe
+C:\Users\hecdi\source\repos\MadLib Game\MadLib Game\obj\Debug\MadLib Game.pdb
